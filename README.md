@@ -1,2 +1,4 @@
 # hello-world
-For personal use
+
+Hi,
+I am chandni verma. I am ROR developer.
